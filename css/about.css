@@ -1,0 +1,52 @@
+
+ 
+#about {
+    background-image: url(../assets/image/coffeess.jpg);
+    width: 100%;
+     padding: 30px; 
+}
+
+.us {
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    border: solid 2px black;
+}
+
+.family {
+    border: solid 2px black;
+    height: 50%;
+    width: 100%;
+}
+
+
+
+.me {
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+    border: solid 2px black;
+}
+
+/* .friends {
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+} */
+
+.aboutMe {
+      font-weight: bold; 
+     color: var(--teal);
+     font-size: 20px;
+     text-shadow: 1px 1px black;
+}
+h2 {
+    font-weight: bold;
+    color: var(--teal);
+    text-shadow: 1px 1px black;
+}
+
+.img-fluid {
+    border: solid 2px black;
+}
+

@@ -1,0 +1,28 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand {
+    color: var(--teal);
+    border: solid 1px var(--pink);
+    padding: 5px;
+}
+
+.navbar-brand:hover {
+    color: var(--pink);
+}
+
+.nav-link {
+    color: var(--pink);
+    border: solid 1px var(--teal);
+}
+
+.nav-link:hover {
+    color: var(--teal);
+}
+
+.dropdown-item {
+    color: var(--teal);
+}
+
+

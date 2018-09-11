@@ -1,0 +1,11 @@
+#contact {
+    background-image: url(../assets/image/notebookssss.jpg);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.name {
+    color: var(--teal);
+    font-weight: bold;
+}
+

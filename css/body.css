@@ -1,0 +1,19 @@
+body {
+    background: grey;
+}
+
+
+
+ .piano {
+    /*height: 40em;*/
+    /* width: 100%;*/
+    background-color: grey;
+    background-image: url(../assets/image/pianosss.jpg);
+    color: var(--pink);
+    text-align: center;
+   /* background-size: 100%;*/
+   /* background-repeat: no-repeat;*/
+    text-shadow: 2px 2px black; 
+   /* padding: 50% 0%;*/
+   /* font-size: 48px;*/
+} 

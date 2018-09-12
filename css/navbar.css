@@ -1,28 +1,31 @@
+
 .navbar {
     background-color: black;
 }
 
 .navbar-brand {
-    color: var(--teal);
-    border: solid 1px var(--pink);
+    color: #03B5AA;
+    border: solid 1px #FFD3E8;
     padding: 5px;
 }
 
 .navbar-brand:hover {
-    color: var(--pink);
+    color: #FFD3E8;
 }
 
 .nav-link {
-    color: var(--pink);
-    border: solid 1px var(--teal);
+    color: #FFD3E8;
+    border: solid 1px #03B5AA;
 }
 
 .nav-link:hover {
-    color: var(--teal);
+    color: #03B5AA;
 }
 
 .dropdown-item {
-    color: var(--teal);
+    color: #03B5AA;
 }
+
+
 
 

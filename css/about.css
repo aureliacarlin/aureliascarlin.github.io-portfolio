@@ -1,9 +1,8 @@
-
- 
 #about {
-    background-image: url(../assets/image/coffeess.jpg);
+    background-image: url(../assets/image/subtle.jpeg);
     width: 100%;
      padding: 30px; 
+     margin-top: 40px;
 }
 
 .us {
@@ -28,25 +27,48 @@
     border: solid 2px black;
 }
 
-/* .friends {
-    margin-top: 10px;
-    height: 100%;
-    width: 100%;
-} */
-
 .aboutMe {
       font-weight: bold; 
-     color: var(--teal);
-     font-size: 20px;
-     text-shadow: 1px 1px black;
+     /* color: var(--teal); */
+     color: rgb(240, 240, 240);
+     font-size: 25px;
+      text-shadow: 1px 1px black; 
+      text-align: center;
 }
 h2 {
     font-weight: bold;
-    color: var(--teal);
-    text-shadow: 1px 1px black;
+    /* color: #03B5AA; */
+    color: rgb(240, 240, 240);
+    text-shadow: 1px 1px black; 
+    text-align: center;
 }
 
 .img-fluid {
     border: solid 2px black;
 }
+
+
+/* TEST ADD */
+.together {
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    border: solid 2px black;
+
+}
+
+    .AJ {
+        height: 100%;
+        width: 100%;
+        margin-top: 10px;
+        border: solid 2px black;
+    }
+
+    .all2 {
+        margin-top: 10px;
+    }
+
+  
+ 
+
 

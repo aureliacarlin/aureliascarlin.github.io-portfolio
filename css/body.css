@@ -1,19 +1,23 @@
 body {
-    background: grey;
+    background-image: url(../assets/image/pianos2.jpg);
+    background-repeat: no-repeat;
+    background-color: gray;
+    
 }
 
-
-
- .piano {
-    /*height: 40em;*/
-    /* width: 100%;*/
-    background-color: grey;
-    background-image: url(../assets/image/pianosss.jpg);
-    color: var(--pink);
+.intro {
     text-align: center;
-   /* background-size: 100%;*/
-   /* background-repeat: no-repeat;*/
-    text-shadow: 2px 2px black; 
-   /* padding: 50% 0%;*/
-   /* font-size: 48px;*/
-} 
+    padding: 20%;
+    color: #FFD3E8;
+     text-shadow: 2px 2px black; 
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name, .job {
+    font-size: 20px; 
+    font-weight: bold;
+}
+

@@ -1,5 +1,6 @@
 #about {
-    background-image: url(../assets/image/subtle.jpeg);
+    background-image: url(../assets/image/subtle.jpeg); 
+    /* background-color: gray; */
     width: 100%;
      padding: 30px; 
      margin-top: 40px;

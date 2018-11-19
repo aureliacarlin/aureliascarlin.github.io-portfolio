@@ -1,5 +1,5 @@
 #about {
-    background-image: url(../assets/image/subtle.jpeg); 
+    /* background-image: url(../assets/image/subtle.jpeg);  */
     /* background-color: gray; */
     width: 100%;
      padding: 30px; 
@@ -30,8 +30,9 @@
 
 .aboutMe {
       font-weight: bold; 
-     /* color: var(--teal); */
-     color: rgb(240, 240, 240);
+      color: var(--teal); 
+     /* color: rgb(240, 240, 240); */
+     /* color: var(--pink); */
      font-size: 25px;
       text-shadow: 1px 1px black; 
       text-align: center;
@@ -69,7 +70,14 @@ h2 {
         margin-top: 10px;
     }
 
-  
- 
+/* .words {
+    height: 200px;
+    overflow: scroll;
+} */
+
+/* .moreWords {
+    height: 600px;
+    overflow: scroll;
+} */
 
 

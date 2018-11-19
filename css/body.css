@@ -1,8 +1,19 @@
 body {
-    background-image: url(../assets/image/pianos2.jpg);
+    /* background-image: url(../assets/image/pianos2.jpg);
     background-repeat: no-repeat;
-    background-color: gray;
+    background-attachment: fixed; */
+    /* background-color: gray; */
     
+    
+}
+
+.back {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    opacity: 0.7;
+    background-color: black;
 }
 
 .intro {
